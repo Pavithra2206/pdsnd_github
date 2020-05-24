@@ -183,6 +183,8 @@ def user_stats(df):
     print('-'*40)
 
 def display_data(df):
+	""" Function which allows user to print the raw data on the screen """
+	
     user_input = input('Do you want to see raw data? Enter yes or no.\n')
     line_number = 0
 
