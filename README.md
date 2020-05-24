@@ -11,4 +11,5 @@ Use of Python to explore data related to bike share systems for three major citi
 Include the files used
 
 ### Credits
-https://www.kaggle.com/zhangluyuan/us-bikeshare-data
+The dataset used in this project is obtained from Kaggle
+Link to dataset:  https://www.kaggle.com/zhangluyuan/us-bikeshare-data
